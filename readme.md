@@ -1,9 +1,2 @@
-# Titulo do repositório
-Descrição do repositório
-
-## Ajustes ao repositório atual
-[] Renomear titulo e descrição
-[] Criar estes arquivos
-    * package.json
-    * .env
-    * notes.md
+# Maratona Explorer 2.0 | Rocketseat
+Desenvolvimento de uma aplicação frontend para centralizar links que hoje é muito utilizado no perfil do Instagram
